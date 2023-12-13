@@ -1,0 +1,28 @@
+body{
+  background-color: #363537;
+}
+
+.prompt-display{
+  background-color: #ef2d56;
+  position:absolute;
+  width: 500px;
+  height: 100px;
+  left: 500px;
+  top: 29px;
+  position: absolute;
+  color: white;
+  fontSize: 100px;
+  fontFamily: Inter;
+  fontWeight: 400;
+  wordWrap: break-word;
+  text-align: center;
+}
+
+.playerList{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+
+
